@@ -13,8 +13,10 @@
 
 ---
 <a href="https://github.com/postguitarist/github-stats">
-<img src="https://github.com/postguitarist/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/postguitarist/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+![](https://raw.githubusercontent.com/postguitarist/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/postguitarist/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/postguitarist/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/postguitarist/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </a>
 
 
