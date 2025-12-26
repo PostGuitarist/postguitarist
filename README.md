@@ -6,7 +6,7 @@
 ### About
 
 -  **Work :** Software Developer @ Samaritan's Purse
--  **Side Work :** SWE @ SwiftSeg
+-  **Side :** Co-Founder & Lead Developer @ SwiftSeg
 -  **School :** Liberty University
 -  **Major :** CS: Software Engineering
 <br />
